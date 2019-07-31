@@ -1,0 +1,21 @@
+body {
+    background-image: url("image.jpg");
+}
+
+h1 {
+	text-align: left; 
+}
+
+p {
+	text-align: left;
+}
+ul.a {
+    list-style-type: circle;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
